@@ -8,7 +8,10 @@ To achieve this two items are added to the game:
 (You can find both by typing "presentation" in the search bar)  
 1. Display  
 2. Display Remote  
-	 
+
+---
+注：此版本已更改init.lua，添加了中文翻译，方便中文用户使用！
+修改者：IceCatX<StarYChen@outlook.com> 
 ---
 
 ### Example 
@@ -56,7 +59,7 @@ You can give a connected remote to a user without the "presentations" privilage 
 ### Installation
 
 To install it copy the downloaded folder (see releases) to the /mods/ folder of your server.  
-(The mod uses [*luasocket*](http://w3.impa.br/~diego/software/luasocket/). Releases include a copy of it. If installing from source, you will need to install it manually.) 
+The mod uses [*luasocket*](http://w3.impa.br/~diego/software/luasocket/).  (Releases include a copy of it)  
 
 To allow downloading images at runtime the mod needs to get added to the *trusted_mods* in the minetest.conf.  
 Add this line to your minetest.conf:  
