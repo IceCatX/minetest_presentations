@@ -10,9 +10,9 @@ To achieve this two items are added to the game:
 2. Display Remote  
 
 ---
-注：此版本已更改init.lua，添加了中文翻译，方便中文用户使用！
-修改者：IceCatX  <StarYChen@outlook.com> 
-Originally by pirey0: https://github.com/pirey0/minetest_presentations
+注：此版本已更改init.lua，添加了中文翻译，方便中文用户使用！  
+修改者：IceCatX  <StarYChen@outlook.com>  
+Originally by pirey0: https://github.com/pirey0/minetest_presentations  
 ---
 
 ### Example 
